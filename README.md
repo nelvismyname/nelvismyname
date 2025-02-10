@@ -3,3 +3,4 @@
 <b><p align="center"> favorite works: </p></b>
 <p align="center">> https://github.com/nelvismyname/fuel.ngl - ngl.link spammer</p>
 <p align="center">> https://hooxy.onrender.com/ - webhook/api proxy</p>
+<p align="center">> https://pastex.onrender.com/ - paste sharing (pastebin copy with compression)</p>
