@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="48">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.12)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.05)"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="179" height="47" rx="8" 
+        fill="url(#bg)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+
+  <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle"
+        font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="500">
+    Visit Website
+  </text>
+</svg>
