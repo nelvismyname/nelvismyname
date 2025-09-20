@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nelvismyname.github.io/nelv/">
-    <img src="https://raw.githubusercontent.com/nelvismyname/nelvismyname/refs/heads/main/icons/portfolio.svg" alt="Visit Website" width="200">
+    <img src="https://raw.githubusercontent.com/nelvismyname/nelvismyname/refs/heads/main/icons/button.png" alt="Visit Website" width="220">
   </a>
 </p>
 
