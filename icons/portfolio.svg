@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="48">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+    text {
+      font-family: 'Inter', sans-serif;
+    }
+  </style>
+
   <defs>
     <linearGradient id="textGradient" gradientTransform="rotate(135)">
       <stop offset="0%" stop-color="#ffffff" />
@@ -16,10 +23,11 @@
       <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.5" />
     </filter>
   </defs>
+
   <rect x="0.5" y="0.5" width="219" height="47" rx="8"
         fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1"/>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" dy="0.15em"
-        font-family="Inter, Arial, sans-serif" font-weight="800" font-size="16"
+        font-weight="800" font-size="16"
         fill="url(#textGradient)" filter="url(#textShadow)">
     Visit Portfolio
   </text>
