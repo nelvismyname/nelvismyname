@@ -1,12 +1,10 @@
-[![Image](https://github.com/user-attachments/assets/0b5ba777-4b49-4b94-9e8a-e0bf3f64fd21)](https://nelvismyname.github.io/nelv/)
 
-<p align="center">
-  <a href="https://nelvismyname.github.io/nelv/">
-    <img src="https://raw.githubusercontent.com/nelvismyname/nelvismyname/refs/heads/main/icons/button.png" alt="Visit Website" width="220">
-  </a>
-</p>
-
-<b><p align="center"> favorite works: </p></b>
-<p align="center">> https://nelvismyname.github.io/nelv/ - sleek portfolio</p>
-<p align="center">> https://github.com/nelvismyname/fuel.ngl - ngl.link spammer</p>
-<p align="center">> https://github.com/nelvismyname/pastex - paste sharing (pastebin copy with compression)</p>
+![typewriter1-ezgif com-gif-maker](https://github.com/user-attachments/assets/9e5263a0-e757-4c3a-afb3-d730d9457051)
+___
+I go by the name "**Nelv**", and I am a programmer who has been interested in and involved with programming since 2020. *From 2020 to 2023,* I was mostly just experimenting and learning the basics (mainly Lua and Python), but over time I've grown more serious about programming and started to focus on main languages such as HTML, CSS and JS.
+___
+## Technologies & Skills
+[![Technologies](https://skillicons.dev/icons?i=windows,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,lua,html,css,js)](https://skillicons.dev)
+___
+![stats](https://github-readme-stats.vercel.app/api?username=nelvismyname&theme=shadow_green&show_icons=true)
