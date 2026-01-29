@@ -6,4 +6,4 @@ ___
 ## Technologies & Skills
 [![Windows](https://skillicons.dev/icons?i=windows)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://en.wikipedia.org/wiki/Visual_Studio_Code) [![Python](https://skillicons.dev/icons?i=python)](https://en.wikipedia.org/wiki/Python_(programming_language)) [![Lua](https://skillicons.dev/icons?i=lua)](https://en.wikipedia.org/wiki/Lua_(programming_language)) [![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS) [![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 ___
-**C'EST LA VIE**
+**AMOR FATI**
