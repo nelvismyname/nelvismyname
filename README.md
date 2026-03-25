@@ -1,4 +1,4 @@
-![](https://github.com/user-attachments/assets/91da7e6d-9142-4cd3-9a00-0ec39e0d56f5)
+![](https://raw.githubusercontent.com/nelvismyname/nelvismyname/main/assets/banner.png)
 I go by the name "**Nelv**", and I am a programmer who has been interested in and involved with programming since 2020. *From 2020 to 2023,* I was mostly just experimenting and learning the basics (mainly Lua and Python), but over time I've grown more serious about programming and started to focus on main languages such as HTML, CSS and JS.
 ___
 ## Technologies & Skills
